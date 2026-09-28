@@ -1,8 +1,8 @@
-#SSE Task 1
+# SSE Task 1
 
 C++ learning and practice repository.
 
-## contents
+## Contents
 
 - C++ Basics
 - Searching Algorithms
