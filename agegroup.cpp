@@ -16,4 +16,5 @@ int main(){
 	else{
 		cout<< " Invalid age entered " << endl;
 	}
+	return 0;
 }
